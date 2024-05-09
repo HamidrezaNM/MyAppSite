@@ -1,28 +1,28 @@
 @font-face {
     font-family: Roboto;
-    src: url(/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf)
+    src: url(/app/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf)
 }
 
 @font-face {
     font-family: Roboto;
     font-weight: 700;
-    src: url(/static/media/Roboto-Bold.f80816a5455d171f948d.ttf)
+    src: url(/app/static/media/Roboto-Bold.f80816a5455d171f948d.ttf)
 }
 
 @font-face {
     font-family: OpenSans;
-    src: url(/static/media/OpenSans-Regular.9a6cfa5890d7f3eef585.ttf)
+    src: url(/app/static/media/OpenSans-Regular.9a6cfa5890d7f3eef585.ttf)
 }
 
 @font-face {
     font-family: Vazirmatn;
-    src: url(/static/media/Vazirmatn-Regular.58c84f666915410c0ba8.woff2)
+    src: url(/app/static/media/Vazirmatn-Regular.58c84f666915410c0ba8.woff2)
 }
 
 @font-face {
     font-family: Vazirmatn;
     font-weight: 700;
-    src: url(/static/media/Vazirmatn-Bold.0d6a47ce8c185a9436b2.woff2)
+    src: url(/app/static/media/Vazirmatn-Bold.0d6a47ce8c185a9436b2.woff2)
 }
 
 * {
@@ -820,7 +820,7 @@ code {
     font-family: Material Symbols Rounded;
     font-style: normal;
     font-weight: 400;
-    src: url(/static/media/syl0-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190FjpZIvDmUSVOK7BDB_Qb9vUSzq3wzLK-P0J-V_Zs-QtQth3-jOc7TOVpeRL2w5rwZu2rIelXxc.7e0701f81878e032a085.woff2) format("woff2")
+    src: url(/app/static/media/syl0-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190FjpZIvDmUSVOK7BDB_Qb9vUSzq3wzLK-P0J-V_Zs-QtQth3-jOc7TOVpeRL2w5rwZu2rIelXxc.7e0701f81878e032a085.woff2) format("woff2")
 }
 
 .icon {
