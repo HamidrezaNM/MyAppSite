@@ -1,21 +1,23 @@
 {
   "files": {
-    "main.css": "/MyAppSite/static/css/main.5d683730.css",
-    "main.js": "/MyAppSite/static/js/main.94ed0197.js",
-    "static/js/787.d3befce1.chunk.js": "/MyAppSite/static/js/787.d3befce1.chunk.js",
-    "static/media/syl0-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190FjpZIvDmUSVOK7BDB_Qb9vUSzq3wzLK-P0J-V_Zs-QtQth3-jOc7TOVpeRL2w5rwZu2rIelXxc.woff2": "/MyAppSite/static/media/syl0-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190FjpZIvDmUSVOK7BDB_Qb9vUSzq3wzLK-P0J-V_Zs-QtQth3-jOc7TOVpeRL2w5rwZu2rIelXxc.7e0701f81878e032a085.woff2",
-    "static/media/Roboto-Regular.ttf": "/MyAppSite/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
-    "static/media/Roboto-Bold.ttf": "/MyAppSite/static/media/Roboto-Bold.f80816a5455d171f948d.ttf",
-    "static/media/OpenSans-Regular.ttf": "/MyAppSite/static/media/OpenSans-Regular.9a6cfa5890d7f3eef585.ttf",
-    "static/media/Vazirmatn-Bold.woff2": "/MyAppSite/static/media/Vazirmatn-Bold.0d6a47ce8c185a9436b2.woff2",
-    "static/media/Vazirmatn-Regular.woff2": "/MyAppSite/static/media/Vazirmatn-Regular.58c84f666915410c0ba8.woff2",
+    "main.css": "/static/css/main.b3fcb01c.css",
+    "main.js": "/static/js/main.3b87e57f.js",
+    "static/js/787.d3befce1.chunk.js": "/static/js/787.d3befce1.chunk.js",
+    "static/media/MaterialSymbol.woff2": "/static/media/MaterialSymbol.998555ec4346a7366561.woff2",
+    "static/media/Roboto-Medium.ttf": "/static/media/Roboto-Medium.7c8d04cd831df3033c8a.ttf",
+    "static/media/Roboto-Regular.ttf": "/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
+    "static/media/Roboto-Bold.ttf": "/static/media/Roboto-Bold.f80816a5455d171f948d.ttf",
+    "static/media/OpenSans-Regular.ttf": "/static/media/OpenSans-Regular.9a6cfa5890d7f3eef585.ttf",
+    "static/media/Vazirmatn-Medium.woff2": "/static/media/Vazirmatn-Medium.bc7d8f11b2c39fd0a880.woff2",
+    "static/media/Vazirmatn-Bold.woff2": "/static/media/Vazirmatn-Bold.0d6a47ce8c185a9436b2.woff2",
+    "static/media/Vazirmatn-Regular.woff2": "/static/media/Vazirmatn-Regular.58c84f666915410c0ba8.woff2",
     "index.html": "/index.html",
-    "main.5d683730.css.map": "/MyAppSite/static/css/main.5d683730.css.map",
-    "main.94ed0197.js.map": "/MyAppSite/static/js/main.94ed0197.js.map",
-    "787.d3befce1.chunk.js.map": "/MyAppSite/static/js/787.d3befce1.chunk.js.map"
+    "main.b3fcb01c.css.map": "/static/css/main.b3fcb01c.css.map",
+    "main.3b87e57f.js.map": "/static/js/main.3b87e57f.js.map",
+    "787.d3befce1.chunk.js.map": "/static/js/787.d3befce1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5d683730.css",
-    "static/js/main.94ed0197.js"
+    "static/css/main.b3fcb01c.css",
+    "static/js/main.3b87e57f.js"
   ]
 }
