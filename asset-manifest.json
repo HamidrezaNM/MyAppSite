@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.d73db2ac.css",
-    "main.js": "/static/js/main.101a1a28.js",
+    "main.css": "/static/css/main.539d3016.css",
+    "main.js": "/static/js/main.61aad7a2.js",
     "static/js/787.d3befce1.chunk.js": "/static/js/787.d3befce1.chunk.js",
     "static/media/MaterialSymbol.woff2": "/static/media/MaterialSymbol.998555ec4346a7366561.woff2",
     "static/media/Roboto-Medium.ttf": "/static/media/Roboto-Medium.7c8d04cd831df3033c8a.ttf",
     "static/media/Roboto-Regular.ttf": "/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
     "static/media/Roboto-Bold.ttf": "/static/media/Roboto-Bold.f80816a5455d171f948d.ttf",
+    "static/media/OpenSans-Medium.ttf": "/static/media/OpenSans-Medium.5b0a682fe3717764627e.ttf",
+    "static/media/OpenSans-Bold.ttf": "/static/media/OpenSans-Bold.45847e90261782dc01a6.ttf",
     "static/media/OpenSans-Regular.ttf": "/static/media/OpenSans-Regular.9a6cfa5890d7f3eef585.ttf",
+    "static/media/OpenSans-SemiBold.ttf": "/static/media/OpenSans-SemiBold.dcf2e322dbaa037ca821.ttf",
     "static/media/Vazirmatn-Medium.woff2": "/static/media/Vazirmatn-Medium.bc7d8f11b2c39fd0a880.woff2",
     "static/media/Vazirmatn-Bold.woff2": "/static/media/Vazirmatn-Bold.0d6a47ce8c185a9436b2.woff2",
     "static/media/Vazirmatn-Regular.woff2": "/static/media/Vazirmatn-Regular.58c84f666915410c0ba8.woff2",
     "index.html": "/index.html",
-    "main.d73db2ac.css.map": "/static/css/main.d73db2ac.css.map",
-    "main.101a1a28.js.map": "/static/js/main.101a1a28.js.map",
+    "main.539d3016.css.map": "/static/css/main.539d3016.css.map",
+    "main.61aad7a2.js.map": "/static/js/main.61aad7a2.js.map",
     "787.d3befce1.chunk.js.map": "/static/js/787.d3befce1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d73db2ac.css",
-    "static/js/main.101a1a28.js"
+    "static/css/main.539d3016.css",
+    "static/js/main.61aad7a2.js"
   ]
 }
