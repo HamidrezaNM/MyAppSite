@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.539d3016.css",
-    "main.js": "/static/js/main.61aad7a2.js",
+    "main.css": "/static/css/main.73abfa2a.css",
+    "main.js": "/static/js/main.544ab8fb.js",
     "static/js/787.d3befce1.chunk.js": "/static/js/787.d3befce1.chunk.js",
     "static/media/MaterialSymbol.woff2": "/static/media/MaterialSymbol.998555ec4346a7366561.woff2",
     "static/media/Roboto-Medium.ttf": "/static/media/Roboto-Medium.7c8d04cd831df3033c8a.ttf",
@@ -15,12 +15,12 @@
     "static/media/Vazirmatn-Bold.woff2": "/static/media/Vazirmatn-Bold.0d6a47ce8c185a9436b2.woff2",
     "static/media/Vazirmatn-Regular.woff2": "/static/media/Vazirmatn-Regular.58c84f666915410c0ba8.woff2",
     "index.html": "/index.html",
-    "main.539d3016.css.map": "/static/css/main.539d3016.css.map",
-    "main.61aad7a2.js.map": "/static/js/main.61aad7a2.js.map",
+    "main.73abfa2a.css.map": "/static/css/main.73abfa2a.css.map",
+    "main.544ab8fb.js.map": "/static/js/main.544ab8fb.js.map",
     "787.d3befce1.chunk.js.map": "/static/js/787.d3befce1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.539d3016.css",
-    "static/js/main.61aad7a2.js"
+    "static/css/main.73abfa2a.css",
+    "static/js/main.544ab8fb.js"
   ]
 }
